@@ -1,6 +1,8 @@
 # Live BTC chart
 Live Bitcoin price chart using Electron and Highcharts
 
+![alt tag](https://cloud.githubusercontent.com/assets/19593179/21726587/b064e54c-d43d-11e6-88d1-c8fc9def5676.png)
+
 ## Motivation
 
 Building something easy and fun, getting started with Electron.
@@ -12,7 +14,6 @@ Building something easy and fun, getting started with Electron.
     npm install
 
 ## Running
-
     npm run start
 
 ## Building
