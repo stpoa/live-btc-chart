@@ -5,13 +5,15 @@
   "scripts": {
     "start": "electron .",
     "build": "electron-packager . BitcoinPrice --platform=darwin --arch=x64 --version=1.4.6",
-    "build-win": "electron-packager . BitcoinPrice --platform=win32 --arch=x64 --version=1.4.6"
+    "build-win": "electron-packager . BitcoinPrice --platform=win32 --arch=x64 --version=1.4.6",
+    "standard": "standard"
   },
   "dependencies": {
     "highcharts": "^5.0.6"
   },
   "devDependencies": {
     "electron": "^1.4.11",
-    "electron-packager": "^8.3.0"
+    "electron-packager": "^8.3.0",
+    "standard": "^8.6.0"
   }
 }
